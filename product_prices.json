@@ -1,0 +1,56 @@
+{
+    "Logitech B100 Mouse": {
+        "category": "Mouse",
+        "purchase_price": 750,
+        "dealer_price": 900,
+        "selling_price": 900
+    },
+    "Logitech B175 Mouse": {
+        "category": "Mouse",
+        "purchase_price": 1830,
+        "dealer_price": 2200,
+        "selling_price": 2300
+    },
+    "Logitech M170 Mouse": {
+        "category": "Mouse",
+        "purchase_price": 1970,
+        "dealer_price": 2300,
+        "selling_price": 2400
+    },
+    "Logitech M187 Mouse": {
+        "category": "Mouse",
+        "purchase_price": 2200,
+        "dealer_price": 2800,
+        "selling_price": 3000
+    },
+    "Logitech M240 Mouse": {
+        "category": "Mouse",
+        "purchase_price": 3250,
+        "dealer_price": 3650,
+        "selling_price": 3800
+    },
+    "Logitech G402 Mouse": {
+        "category": "Mouse",
+        "purchase_price": 5920,
+        "dealer_price": 6400,
+        "selling_price": 6500
+    },
+    "A4tech op 720 Mouse": {
+        "category": "Mouse",
+        "purchase_price": 760,
+        "dealer_price": 900,
+        "selling_price": 900
+    },
+    "A4tech op 620 Mouse": {
+        "category": "Mouse",
+        "purchase_price": 965,
+        "dealer_price": 1100,
+        "selling_price": 1100
+    },
+    "A4tech G3-200NS Mouse": {
+        "category": "Mouse",
+        "purchase_price": 1550,
+        "dealer_price": 1800,
+        "selling_price": 1900
+    }
+}
